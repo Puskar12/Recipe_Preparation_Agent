@@ -98,7 +98,6 @@ Recipe Preparation Agent is an AI-powered assistant that helps users cook meals 
 
 - 🏅 Getting Started with AI – IBM SkillsBuild  
 - 🏅 Retrieval-Augmented Generation Lab – IBM watsonx.ai  
-> *(You can insert badge image links or certificate screenshots here)*
 
 # 🔗 GitHub Repository
 
