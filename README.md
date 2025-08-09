@@ -105,6 +105,6 @@ Recipe Preparation Agent is an AI-powered assistant that helps users cook meals 
 
 # 🙏 Acknowledgements
 
-Built for the IBM SkillsBuild Academic Hackathon  
+Built for the IBM SkillsBuild AICTE Internship Project  
 Powered by IBM Cloud, Watsonx.ai, Granite Foundation Models, and Prompt Lab  
 Created with ❤️ to make cooking simpler and smarter
